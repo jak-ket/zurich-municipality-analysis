@@ -18,3 +18,7 @@ In a second modeling attempt, we predict on municipality and department level. F
 
 ## Visualization
 Find visualizations like code for efficiency heatmaps and the R-Shiny dashboard in `visualization`. 
+
+## Links
+- finance data for municipalities: https://www.web.statistik.zh.ch/fp/
+- characteristics of municipalities:  https://www.web.statistik.zh.ch/gpv2/
